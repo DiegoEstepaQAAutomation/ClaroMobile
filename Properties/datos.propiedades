@@ -1,0 +1,10 @@
+PathExcel =./Data2/InfoData.xlsx
+OutPutFile= ./output/
+platformName= Android
+deviceName = fda3e42d
+platformVersion = 7.1
+appPackage =com.clarocolombia.miclaro.debug
+appActivity = com.clarocolombia.miclaro.activities.Splash
+noReset = true
+autoGrantPermissior =true
+			
