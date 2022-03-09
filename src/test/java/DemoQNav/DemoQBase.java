@@ -1,5 +1,8 @@
 package DemoQNav;
 
+
+
+//FABRICA GATEX
 import java.awt.Dimension;
 import java.awt.Rectangle;
 import java.awt.Robot;
